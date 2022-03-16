@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "189434754215",
+    "project_id": "qr-code-scanner-ce14c",
+    "storage_bucket": "qr-code-scanner-ce14c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189434754215:android:1313f3418c4781746a1782",
+        "android_client_info": {
+          "package_name": "com.sangeeta.qrcodescanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "189434754215-sqomuj4aoh7r47cv909l10a6f1jqhie5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd7QjWo3YCBkQysQWYl_og2fTyu9PFKOc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "189434754215-sqomuj4aoh7r47cv909l10a6f1jqhie5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
